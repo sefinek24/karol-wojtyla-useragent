@@ -4,7 +4,9 @@
 Przeglądaj Internet jako JP2 za pomocą poniższego [user agenta](https://pl.wikipedia.org/wiki/User_agent).  
 Wszystkie strony Internetowe będą myśleć, że korzystasz z systemu [Linux](https://pl.wikipedia.org/wiki/Linux).
 
-`Karol Wojtyla Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/2137 Safari/537.36`
+```
+Karol Wojtyla Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/2137 Safari/537.36
+```
 
 ```
 Browser                   : Chrome 2137
