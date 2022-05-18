@@ -20,7 +20,7 @@ EcmaScript Version        : 3.0
 ```
 
 ## Wtyczka
-https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg/related?hl=pl
+> https://chrome.google.com/webstore/detail/user-agent-switcher-and-m/bhchdcejhohfmigjafbampogmaanbfkg/related?hl=pl
 
 ## Config
-https://github.com/sefinek24/karol-wojtyla-useragent/blob/master/useragent-switcher-preferences.json
+> https://github.com/sefinek24/karol-wojtyla-useragent/blob/master/useragent-switcher-preferences.json
