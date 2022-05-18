@@ -1,5 +1,6 @@
 <div align="center">
     <h1>Karol Wojtyła User-Agent</h1>
+    <img src="https://raw.githubusercontent.com/sefinek24/karol-wojtyla-useragent/master/images/kremowkuj_z_tym.jpg" alt="Kremówkuj z tym">
 </div>
 Przeglądaj Internet jako JP2 za pomocą poniższego <a href="https://pl.wikipedia.org/wiki/User_agent">user agenta</a>.  
 Wszystkie strony Internetowe będą myśleć, że korzystasz z systemu <a href="https://pl.wikipedia.org/wiki/Linux">Linux</a>.
@@ -29,7 +30,4 @@ EcmaScript Version        : 3.0
 ## Config
 > https://github.com/sefinek24/karol-wojtyla-useragent/blob/master/useragent-switcher-preferences.json
 
-## Niech papież ma Cię w swojej opiece
-<div align="center">
-<img src="https://raw.githubusercontent.com/sefinek24/karol-wojtyla-useragent/master/images/kremowkuj_z_tym.jpg" alt="Kremówkuj z tym">
-</div>
+### Niech papież ma Cię w swojej opiece
