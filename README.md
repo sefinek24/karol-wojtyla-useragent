@@ -1,4 +1,6 @@
-## Karol Wojtyła User-Agent
+<div align="center">
+    <h1>Karol Wojtyła User-Agent</h1>
+</div>
 Przeglądaj Internet w imieniu papieża za pomocą poniższego [user agenta](https://pl.wikipedia.org/wiki/User_agent) na systemie [Linux](https://pl.wikipedia.org/wiki/Linux).  
 Wszystkie strony Internetowe będą myśleć, że korzystasz z Linuxa.
 
