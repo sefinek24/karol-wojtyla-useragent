@@ -30,4 +30,6 @@ EcmaScript Version        : 3.0
 > https://github.com/sefinek24/karol-wojtyla-useragent/blob/master/useragent-switcher-preferences.json
 
 ## Niech papież ma Cię w swojej opiece
+<div align="center">
 <img src="https://raw.githubusercontent.com/sefinek24/karol-wojtyla-useragent/master/images/kremowkuj_z_tym.jpg" alt="Kremówkuj z tym">
+</div>
