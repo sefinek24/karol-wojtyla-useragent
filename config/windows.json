@@ -1,0 +1,32 @@
+{
+  "blacklist": [
+    "google.com",
+    "gstatic.com",
+    "accounts.google.com",
+    "accounts.youtube.com",
+    "gitlab.com",
+    "sefinek.net"
+  ],
+  "cache": true,
+  "custom": {},
+  "exactMatch": false,
+  "faqs": true,
+  "last-update": 1700629305835,
+  "log": false,
+  "mode": "blacklist",
+  "parser": {},
+  "popup-os": "Windows",
+  "protected": [
+    "google.com/recaptcha",
+    "gstatic.com/recaptcha",
+    "accounts.google.com",
+    "accounts.youtube.com",
+    "gitlab.com/users/sign_in"
+  ],
+  "siblings": {},
+  "ua": "Karol/Wojtyla Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/2137.0.0.0 Safari/537.36",
+  "userAgentData": true,
+  "whitelist": [],
+  "json-guid": "5b8667a2-3d75-425b-802e-5e777f78ab11",
+  "json-forced": false
+}
