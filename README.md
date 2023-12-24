@@ -1,11 +1,11 @@
 <div align="center">
     <h1>Przeglądaj Internet jako Jan Paweł Drugi</h1>
-    <img src="https://raw.githubusercontent.com/sefinek24/karol-wojtyla-useragent/master/images/kremowkuj_z_tym.jpg" alt="Kremówkuj z tym">
+    <img src="/images/kremowkuj_z_tym.jpg" alt="Kremówkuj z tym">
 </div>
 
 
 ## Co to User-Agent?
-Doedukuj sie tutaj https://pl.wikipedia.org/wiki/User_agent. Potem [otrząśnij się i bądź sobą, ludziu](https://www.youtube.com/watch?v=XjehBH_ZD8w).
+Doedukuj się tutaj https://pl.wikipedia.org/wiki/User_agent. Potem [otrząśnij się i bądź sobą, ludziu](https://www.youtube.com/watch?v=XjehBH_ZD8w)
 
 
 ## User-Agent pod Windowsa
