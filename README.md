@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Przeglądaj Internet jako Jan Paweł Drugi</h1>
+    <h1>🍮 Przeglądaj Internet jako Jan Paweł Drugi</h1>
     <img src="/images/kremowkuj_z_tym.jpg" alt="Kremówkuj z tym">
 </div>
 
