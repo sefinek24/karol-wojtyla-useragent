@@ -5,7 +5,7 @@
 
 
 ## Co to User-Agent?
-Doedukuj się tutaj https://pl.wikipedia.org/wiki/User_agent. Potem [otrząśnij się i bądź sobą, ludziu](https://www.youtube.com/watch?v=XjehBH_ZD8w)
+Doedukuj się tutaj https://pl.wikipedia.org/wiki/User_agent. A potem [otrząśnij się i bądź sobą, ludziu](https://www.youtube.com/watch?v=XjehBH_ZD8w)
 
 
 ## User-Agent pod Windowsa
